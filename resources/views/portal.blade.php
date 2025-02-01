@@ -53,7 +53,22 @@
                                 </td>
                             </tr>
                             <tr>
-
+                                <td class="py-4 px-6 border-b border-gray-200">AI Chatbots</td>
+                                <td class="py-4 px-6 border-b border-gray-200">
+                                    <a href="https://ms.siine.dz" class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">Access</a>
+                                </td>
+                                <td class="py-4 px-6 border-b border-gray-200">
+                                    <span class="bg-green-500 text-white py-1 px-2 rounded-full text-xs">Active</span>
+                                    <hr>
+                                    <span class="bg-blue-500 text-white py-1 px-2 rounded-full text-xs">admin@siine.dz</span>
+                                    <span class="bg-blue-500 text-white py-1 px-2 rounded-full text-xs">00000000</span>
+                                </td>
+                            </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
             </main>
         </div>
         <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
